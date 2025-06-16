@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+opencv-python
+qrcode          # Pure-Python QR code generator  [oai_citation:0‡pypi.org](https://pypi.org/project/qrcode/?utm_source=chatgpt.com)
+Pillow          # Pro ukládání PNG obrázků (kouká se přes qrcode[pil])
+PyJWT
+picamera2
+HAP-python[QRCode]  # HomeKit Accessory Protocol implementation  [oai_citation:1‡pypi.org](https://pypi.org/project/HAP-python/?utm_source=chatgpt.com)
